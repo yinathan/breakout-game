@@ -13,7 +13,7 @@
 
 ### Technologies Used
 
-    HTML, CSS, Javascript, Phaser.io
+    HTML, CSS, Javascript, Node.js, Phaser.io
 
 ### User Stories
 - AAU I want to be able to start the game
